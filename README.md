@@ -1,4 +1,4 @@
-# First jss App
+# First js App
 
 This is the first js app built by me. All credits go to traversy media.
 
